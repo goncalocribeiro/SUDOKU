@@ -1,5 +1,4 @@
 # SUDOKU
-Project Logic for programming
 
 College: Instituto Superior Técnico
 
