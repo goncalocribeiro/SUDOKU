@@ -1,2 +1,2 @@
 # SUDOKU
-Logic for programming
+Project Logic for programming
